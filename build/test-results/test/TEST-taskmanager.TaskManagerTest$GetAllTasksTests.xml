@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Tests de rÃ©cupÃ©ration de toutes les tÃ¢ches" tests="4" skipped="0" failures="0" errors="0" timestamp="2026-03-03T10:37:26.085Z" hostname="TOXIC-LAPTOP" time="0.013">
+  <properties/>
+  <testcase name="La liste retournÃ©e devrait contenir le bon nombre d'Ã©lÃ©ments" classname="taskmanager.TaskManagerTest$GetAllTasksTests" time="0.002"/>
+  <testcase name="La liste retournÃ©e devrait Ãªtre une copie indÃ©pendante" classname="taskmanager.TaskManagerTest$GetAllTasksTests" time="0.002"/>
+  <testcase name="Devrait retourner une liste vide lorsqu'aucune tÃ¢che n'a Ã©tÃ© ajoutÃ©e" classname="taskmanager.TaskManagerTest$GetAllTasksTests" time="0.001"/>
+  <testcase name="Devrait rÃ©cupÃ©rer toutes les tÃ¢ches ajoutÃ©es" classname="taskmanager.TaskManagerTest$GetAllTasksTests" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Tests d'ajout de tÃ¢ches" tests="6" skipped="0" failures="0" errors="0" timestamp="2026-03-03T10:37:26.100Z" hostname="TOXIC-LAPTOP" time="0.038">
+  <properties/>
+  <testcase name="La tÃ¢che ajoutÃ©e devrait avoir le bon nom" classname="taskmanager.TaskManagerTest$AddTaskTests" time="0.017"/>
+  <testcase name="Devrait ajouter une tÃ¢che valide Ã  la liste" classname="taskmanager.TaskManagerTest$AddTaskTests" time="0.001"/>
+  <testcase name="La tÃ¢che ajoutÃ©e devrait avoir la bonne date d'Ã©chÃ©ance" classname="taskmanager.TaskManagerTest$AddTaskTests" time="0.002"/>
+  <testcase name="Devrait lever une exception si le nom de la tÃ¢che est null" classname="taskmanager.TaskManagerTest$AddTaskTests" time="0.009"/>
+  <testcase name="Devrait lever une exception si le nom de la tÃ¢che contient uniquement des espaces" classname="taskmanager.TaskManagerTest$AddTaskTests" time="0.002"/>
+  <testcase name="Devrait lever une exception si le nom de la tÃ¢che est vide" classname="taskmanager.TaskManagerTest$AddTaskTests" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

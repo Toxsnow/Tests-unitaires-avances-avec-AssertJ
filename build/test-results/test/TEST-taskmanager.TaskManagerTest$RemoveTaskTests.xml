@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Tests de suppression de tÃ¢ches" tests="8" skipped="0" failures="0" errors="0" timestamp="2026-03-03T10:37:25.707Z" hostname="TOXIC-LAPTOP" time="0.335">
+  <properties/>
+  <testcase name="Devrait retourner true lorsqu'une tÃ¢che est supprimÃ©e" classname="taskmanager.TaskManagerTest$RemoveTaskTests" time="0.278"/>
+  <testcase name="Devrait retourner false lorsqu'aucune tÃ¢che ne correspond au nom" classname="taskmanager.TaskManagerTest$RemoveTaskTests" time="0.001"/>
+  <testcase name="La suppression devrait Ãªtre insensible Ã  la casse - minuscules" classname="taskmanager.TaskManagerTest$RemoveTaskTests" time="0.029"/>
+  <testcase name="Devrait pouvoir supprimer plusieurs tÃ¢ches successivement" classname="taskmanager.TaskManagerTest$RemoveTaskTests" time="0.012"/>
+  <testcase name="Devrait retourner false lorsque la liste est vide" classname="taskmanager.TaskManagerTest$RemoveTaskTests" time="0.001"/>
+  <testcase name="La liste devrait Ãªtre correctement mise Ã  jour aprÃ¨s suppression" classname="taskmanager.TaskManagerTest$RemoveTaskTests" time="0.001"/>
+  <testcase name="La suppression devrait Ãªtre insensible Ã  la casse - majuscules" classname="taskmanager.TaskManagerTest$RemoveTaskTests" time="0.002"/>
+  <testcase name="Devrait supprimer une tÃ¢che existante par son nom" classname="taskmanager.TaskManagerTest$RemoveTaskTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Tests de filtrage des tÃ¢ches par date" tests="6" skipped="0" failures="0" errors="0" timestamp="2026-03-03T10:37:26.050Z" hostname="TOXIC-LAPTOP" time="0.031">
+  <properties/>
+  <testcase name="Ne devrait pas inclure les tÃ¢ches dont la date est Ã©gale Ã  la date fournie" classname="taskmanager.TaskManagerTest$GetTasksDueBeforeTests" time="0.003"/>
+  <testcase name="Devrait retourner toutes les tÃ¢ches si toutes sont antÃ©rieures Ã  la date" classname="taskmanager.TaskManagerTest$GetTasksDueBeforeTests" time="0.007"/>
+  <testcase name="Devrait retourner une liste vide si aucune tÃ¢che ne correspond au critÃ¨re" classname="taskmanager.TaskManagerTest$GetTasksDueBeforeTests" time="0.002"/>
+  <testcase name="Ne devrait pas inclure les tÃ¢ches dont la date est postÃ©rieure" classname="taskmanager.TaskManagerTest$GetTasksDueBeforeTests" time="0.002"/>
+  <testcase name="Devrait retourner une liste vide si aucune tÃ¢che n'existe" classname="taskmanager.TaskManagerTest$GetTasksDueBeforeTests" time="0.002"/>
+  <testcase name="Devrait retourner uniquement les tÃ¢ches dont la date est strictement antÃ©rieure" classname="taskmanager.TaskManagerTest$GetTasksDueBeforeTests" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
